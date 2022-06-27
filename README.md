@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hemant Ghatawal
-- 👀 I’m interested in Python Development and solving Problems
-- 🌱 I’m currently learning AI and Machine Learning
+- 👀 I’m interested in Website Development and solving Problems
 - 💞️ I’m looking to collaborate on anything which makes a difference
 - 📫 Reach me at https://in.linkedin.com/in/hemant-ghatawal
 
