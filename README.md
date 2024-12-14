@@ -19,7 +19,7 @@ I am a Software Developer Engineer, Memes Creator & open source tech enthusiast 
 
 - Teaching and Instructing about Web technologies and Python ♥.
 
-- Share knowledge through meetups and twitter.
+- Share knowledge through meetups and Linkedin.
 
 ---
 
