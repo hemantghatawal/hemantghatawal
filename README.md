@@ -25,16 +25,16 @@ I am a Software Developer Engineer, Memes Creator & open source tech enthusiast 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-png-transparent.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png](https://cdn.iconscout.com/icon/free/png-512/free-graphql-logo-icon-svg-download-png-2944912.png?f=webp&w=256" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Font_Awesome_5_brands_github-square.svg/1792px-Font_Awesome_5_brands_github-square.svg.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-761603.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
