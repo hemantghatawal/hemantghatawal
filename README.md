@@ -30,7 +30,7 @@ I am a Software Developer Engineer, Memes Creator & open source tech enthusiast 
   <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-png-transparent.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-graphql-logo-icon-svg-download-png-2944912.png?f=webp&w=256" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
