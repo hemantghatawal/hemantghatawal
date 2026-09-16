@@ -1,17 +1,17 @@
-# Hemant Ghatawal <img align="right" src="https://komarev.com/ghpvc/?username=hemantghatawal&style=flat-square&color=blue" alt="Profile views"/>
+# Hemant Ghatawal <img align="right" src="https://komarev.com/ghpvc/?username=hemantghatawal&style=flat-square&color=blue" alt="Profile view count for Hemant Ghatawal"/>
 
-Full-stack engineer, based in Jaipur, India.
-I build large-scale web applications, and I teach the web and Python to people who are learning it.
+Full-stack engineer in Jaipur, India, building AI-powered web products with React, Next.js and TypeScript.
+I teach and mentor developers who are getting started with the web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemant--ghatawal-0A66C2?style=flat-square&labelColor=2F3640)](https://www.linkedin.com/in/hemant-ghatawal/) [![X](https://img.shields.io/badge/X-hemant__ghatawal-2F3640?style=flat-square&labelColor=2F3640&logo=x&logoColor=white)](https://x.com/hemant_ghatawal) [![Instagram](https://img.shields.io/badge/Instagram-hemant__ghatawal-E4405F?style=flat-square&labelColor=2F3640&logo=instagram&logoColor=white)](https://www.instagram.com/hemant_ghatawal/) [![LeetCode](https://img.shields.io/badge/LeetCode-hemant__ghatawal-FFA116?style=flat-square&labelColor=2F3640&logo=leetcode&logoColor=black)](https://leetcode.com/u/hemant_ghatawal/) [![HackerRank](https://img.shields.io/badge/HackerRank-hemantghatawal-00EA64?style=flat-square&labelColor=2F3640&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/hemantghatawal) [![Email](https://img.shields.io/badge/Email-hemantghatawal@gmail.com-EA4335?style=flat-square&labelColor=2F3640&logo=gmail&logoColor=white)](mailto:hemantghatawal@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-hemantghatawal.github.io-4F46E5?style=flat-square&labelColor=2F3640&logo=googlechrome&logoColor=white)](https://hemantghatawal.github.io/hemantghatawal.com/)
+[![Hemant Ghatawal on LinkedIn](https://img.shields.io/badge/LinkedIn-hemant--ghatawal-0A66C2?style=flat-square&labelColor=2F3640)](https://www.linkedin.com/in/hemant-ghatawal/) [![Hemant Ghatawal on X](https://img.shields.io/badge/X-hemant__ghatawal-2F3640?style=flat-square&labelColor=2F3640&logo=x&logoColor=white)](https://x.com/hemant_ghatawal) [![Hemant Ghatawal on Instagram](https://img.shields.io/badge/Instagram-hemant__ghatawal-E12A4C?style=flat-square&labelColor=2F3640&logo=instagram&logoColor=white)](https://www.instagram.com/hemant_ghatawal/) [![Hemant Ghatawal on LeetCode](https://img.shields.io/badge/LeetCode-hemant__ghatawal-AA6500?style=flat-square&labelColor=2F3640&logo=leetcode&logoColor=white)](https://leetcode.com/u/hemant_ghatawal/) [![Hemant Ghatawal on HackerRank](https://img.shields.io/badge/HackerRank-hemantghatawal-00893B?style=flat-square&labelColor=2F3640&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hemantghatawal) [![Email Hemant Ghatawal](https://img.shields.io/badge/Email-hemantghatawal@gmail.com-E42718?style=flat-square&labelColor=2F3640&logo=gmail&logoColor=white)](mailto:hemantghatawal@gmail.com) [![Hemant Ghatawal portfolio website](https://img.shields.io/badge/Portfolio-hemantghatawal.github.io-4F46E5?style=flat-square&labelColor=2F3640&logo=googlechrome&logoColor=white)](https://hemantghatawal.github.io/hemantghatawal.com/)
 
-## CURRENTLY
+## CURRENTLY 🤖
 
-Frontend AI Engineer, working on enterprise search and agent tooling: unified search and chat, an Agent Studio that ships as a shareable embed, and 15+ action-enabled integrations across Google Calendar, Gmail, Notion and Slack.
+Frontend AI Engineer, building enterprise search and agent tooling — unified search and chat, an Agent Studio that ships as a shareable embed, and integrations that let an agent actually do things across Calendar, Gmail, Notion and Slack.
 
-Day to day that means Next.js, design systems, and keeping render performance honest as the app grows. Evenings go to small browser projects I can finish in one sitting.
+Learning in the open: how AI systems hold up in production rather than in a demo — retrieval quality, evals, and knowing when an agent should hand control back to a person. Alongside that, DSA and system design, one problem at a time.
 
-## STACK
+## STACK 🧰
 
 | Area | Tools | Where it shows up |
 | :-- | :-- | :-- |
@@ -26,7 +26,7 @@ Day to day that means Next.js, design systems, and keeping render performance ho
 | **Coding agents** | <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Codex-2F3640?style=flat-square" alt="Codex"/> | Pairing, refactors, and reviews |
 | **Picking up** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/> | Weekend mobile experiments |
 
-## SELECTED WORK
+## SELECTED WORK 🚀
 
 | Repository | What it does | Built with |
 | :-- | :-- | :-- |
@@ -35,9 +35,10 @@ Day to day that means Next.js, design systems, and keeping render performance ho
 | [**dddance.baraat.party**](https://github.com/hemantghatawal/dddance.baraat.party) | A baraat that dances down the street, one keypress at a time | JavaScript |
 | [**snow_bros_2026**](https://github.com/hemantghatawal/snow_bros_2026) | A browser take on the Snow Bros arcade game | TypeScript |
 | [**live-pomodoro**](https://github.com/hemantghatawal/live-pomodoro) | A pomodoro timer built to run during live sessions | TypeScript |
-## ACTIVITY
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantghatawal&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantghatawal&theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantghatawal&theme=github_dark" alt="GitHub stats" height="175"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantghatawal&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantghatawal&theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantghatawal&theme=github_dark" alt="Top languages by repo" height="175"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantghatawal&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantghatawal&theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantghatawal&theme=github_dark" alt="Most committed languages" height="175"/></picture>
+## ACTIVITY 📊
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantghatawal&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantghatawal&theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantghatawal&theme=github_dark" alt="GitHub contribution stats for Hemant Ghatawal" height="158"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantghatawal&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantghatawal&theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantghatawal&theme=github_dark" alt="Top programming languages by repository" height="158"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantghatawal&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantghatawal&theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantghatawal&theme=github_dark" alt="Most committed programming languages" height="158"/></picture>
 
 ---
 
